@@ -1,6 +1,6 @@
 # Curious Replay for Model-based Adaptation
 
-Implementation of Curious Replay with the [DreamerV2](https://danijar.com/dreamerv2) agent in TensorFlow 2. 
+Implementation of [Curious Replay](https://arxiv.org/abs/2306.15934) with the [DreamerV2](https://danijar.com/dreamerv2) agent in TensorFlow 2. 
 
 <p align="center">
 <img width="50%" src="overview.png">
